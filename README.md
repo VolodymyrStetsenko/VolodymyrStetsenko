@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Welcome to My Web3 Security Portfolio 👨‍💻🔐</h1>
 <p align="center">
-     <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko Branding" width="100%">
+      <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko Branding" width="100%">
 </p>
 
 ---
