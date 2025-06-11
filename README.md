@@ -22,6 +22,7 @@
 ## 🔥 Featured Projects
 | 🏆 Project | 🚀 Description | 🔗 Link |
 |------------|-----------------|---------|
+| **Stetsenko Audit ** | Launched an AI-powered smart contract audit startup. | [View](https://stetsenko-audit-frontend.vercel.app) |
 | **Ethernaut Solutions** | Solutions for OpenZeppelin's security challenges | [View](https://github.com/VolodymyrStetsenko/ethernaut) |
 | **Smart Contract Audits** | Security reports & vulnerability analysis | [View](https://github.com/VolodymyrStetsenko/audits) |
 | **DeFi Exploit Research** | Analysis of past exploits & attack vectors | [View](https://github.com/VolodymyrStetsenko/web3-exploits) |
