@@ -1,128 +1,89 @@
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko Banner"/>
-  <h1 align="center">VOLODYMYR STETSENKO</h1>
-  <h3 align="center">THE CHRONICLES OF A WEB3 SECURITY APPRENTICE</h3>
-  <p align="center"><strong>Building in Public. Learning with Purpose. Securing the Future.</strong></p>
-  
-  <div align="center">
-    <a href="https://x.com/carstetsen" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://www.linkedin.com/in/volodymyr-stetsenko-656014246/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://t.me/Zero2Auditor" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="https://www.youtube.com/@VolodymyrStetsenkoOfficial" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-    </a>
-    <a href="https://www.reddit.com/user/VStetsenko/" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-    </a>
+<div align="center">
+
+  <!-- Main Visual Identity -->
+  <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko Banner" width="100%"/>
+  <h1>VOLODYMYR STETSENKO</h1>
+  <h3>A Public Chronicle of a Future Web3 Security Auditor</h3>
+  <p>This repository is the live, transparent ledger of my journey from zero to professional.<br>Every commit is a step forward. Every project is a testament to the process.</p>
+
+  <!-- Social & Professional Links -->
+  <div>
+    <a href="https://x.com/carstetsen" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/volodymyr-stetsenko-656014246/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://t.me/Zero2Auditor" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Join_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   </div>
+
+  <br>
+
+  <!-- Live GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VolodymyrStetsenko&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VolodymyrStetsenko&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+
 </div>
 
 ---
+
+## `> Mission Control: The Strategic Blueprint`
+
+This is the operational plan for my development, structured around the **[Cyfrin Updraft](https://updraft.cyfrin.io/dashboard )** curriculum. Each phase is a critical step towards achieving full-spectrum security expertise.
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Phase</th>
+      <th width="50%">Core Objective</th>
+      <th width="25%">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Phase 1: Foundations</strong></td>
+      <td>Mastering Blockchain principles, EVM architecture, and Solidity fundamentals.</td>
+      <td align="center"><img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-blue?style=for-the-badge"></td>
+    </tr>
+    <tr>
+      <td><strong>Phase 2: Offensive Tooling</strong></td>
+      <td>Gaining proficiency in advanced frameworks (Foundry ) and security tools (Slither, Echidna).</td>
+      <td align="center"><img src="https://img.shields.io/badge/STATUS-PLANNED-grey?style=for-the-badge"></td>
+    </tr>
+    <tr>
+      <td><strong>Phase 3: Auditing Practice</strong></td>
+      <td>Executing full-scope smart contract audits, participating in CTFs, and contributing to open-source security.</td>
+      <td align="center"><img src="https://img.shields.io/badge/STATUS-PLANNED-grey?style=for-the-badge"></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## `> Tech Arsenal: The Tools of the Trade`
+
+This is the evolving arsenal of technologies I am currently focused on mastering.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
+
+---
+
+## `> Evidence Log: The Record of Work`
+
+This section is the central repository for all tangible outputs of my learning journey. It will be populated as projects are completed and published.
+
+| Category                  | Project / Repository Name                  | Status          | Link to Evidence                                      |
+| ------------------------- | ------------------------------------------ | --------------- | ----------------------------------------------------- |
+| **📚 Coursework & Notes** | `cyfrin-updraft-blockchain-basics`         | ⏳ In Progress  | `[Link to be added]`                                  |
+| **💻 Code & Exercises**   | `solidity-fundamentals-exercises`          | 📝 Planned      | `[Link to be added]`                                  |
+| **🛡️ Security Audits**    | `practice-audit-01-simple-erc20`           | 📝 Planned      | `[Link to be added]`                                  |
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VolodymyrStetsenko&show_icons=true&theme=radical&rank_icon=github&count_private=true )
-
+---
+<p>This profile is a declaration of intent and a record of execution. The journey is long, but the commitment is absolute.</p>
+<img src="https://github-profile-trophy.vercel.app/?username=VolodymyrStetsenko&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 </div>
-
----
-
-### `> whoami`
-
-```yaml
-name: Volodymyr Stetsenko
-role: Aspiring Smart Contract Auditor
-mission: To achieve mastery in Web3 security through rigorous, transparent, and documented learning.
-philosophy: "The journey is the portfolio. Every line of code, every concept learned, and every challenge overcome is a testament to growth."
-status:
-  learning: true
-  building: true
-  securing: in-progress
-
----
-
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko Banner"/>
-  <h1 align="center">VOLODYMYR STETSENKO</h1>
-  <h3 align="center">THE CHRONICLES OF A WEB3 SECURITY APPRENTICE</h3>
-  <p align="center"><strong>Building in Public. Learning with Purpose. Securing the Future.</strong></p>
-  
-  <div align="center">
-    <a href="https://x.com/carstetsen" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://www.linkedin.com/in/volodymyr-stetsenko-656014246/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://t.me/Zero2Auditor" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="https://www.youtube.com/@VolodymyrStetsenkoOfficial" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-    </a>
-    <a href="https://www.reddit.com/user/VStetsenko/" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-    </a>
-  </div>
-</div>
-
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VolodymyrStetsenko&show_icons=true&theme=radical&rank_icon=github&count_private=true )
-
-</div>
-
----
-
-### `> whoami`
-
-```yaml
-name: Volodymyr Stetsenko
-role: Aspiring Smart Contract Auditor
-mission: To achieve mastery in Web3 security through rigorous, transparent, and documented learning.
-philosophy: "The journey is the portfolio. Every line of code, every concept learned, and every challenge overcome is a testament to growth."
-status:
-  learning: true
-  building: true
-  securing: in-progress
-
----
-
-🛠️ THE ARSENAL: SKILLS & TECHNOLOGIES
-This is the stack I am actively learning and mastering. The list will expand as I progress through the roadmap.
-<p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/> </a> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
----
-
-📂 PROJECT LOG: A CHRONICLE OF WORK
-This section serves as the evidence of my journey. Each entry is a link to a repository containing code, notes, or audit reports.
-Category
-Project Name
-Status
-Repository Link
-📚 Coursework & Notes
-Blockchain Basics - Cyfrin Updraft
-⏳ In Progress
-[Link will be added]
-💻 Code & Exercises
-Foundry Setup & First Contracts
-📝 Planned
-[Link will be added]
-🛡️ Security Audits
-Practice Audit: Simple ERC20 Token
-📝 Planned
-[Link will be added]
-
----
-
-🏆 GITHUB TROPHIES & ACHIEVEMENTS
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=VolodymyrStetsenko&theme=radical&column=7" alt="GitHub Trophies"/> </a> </p>
-<div align="center"> <h3>This profile is a living document—a real-time reflection of my commitment to mastering Web3 security.</h3> <p>Thank you for visiting. Let's connect and build a more secure decentralized future together.</p> <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/footer.svg" alt="Footer"/> </div> ```
