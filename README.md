@@ -1,104 +1,73 @@
-<h1 align="center">🚀 Welcome to My Web3 Security Portfolio 👨‍💻🔐</h1>
+<h1 align="center">Volodymyr Stetsenko: The Zero-to-Audit Journey</h1>
+
 <p align="center">
-      <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko Branding" width="100%">
+  <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko Banner" width="100%">
 </p>
 
 ---
 
-## 👨‍💻 About Me
-🔍 **Blockchain Security Researcher | Smart Contract Auditor | Web3 Developer**  
-🎯 Passionate about **Web3 security, smart contract auditing, DeFi exploits, and blockchain development.**  
-🔥 My goal: **To secure blockchain applications, contribute to Web3 security, and educate the community.**  
+## 🚀 My Mission: From Zero to Web3 Security Professional
 
-## 🛠 Skills & Expertise
-✅ **Smart Contract Auditing & Security Analysis**  
-✅ **Ethereum, Solidity, Vyper & Rust Development**  
-✅ **Web3 Security Research & DeFi Protocols**  
-✅ **CTF Challenges, Bug Bounty Hunting & Reverse Engineering**  
-✅ **Tooling: Slither, Mythril, Foundry, Hardhat, Echidna, Fuzzing Tools**  
+Welcome to my digital workshop. My name is Volodymyr Stetsenko, and I am on a public journey to become a world-class smart contract auditor. This repository is a transparent, real-time log of my progress, starting from the absolute basics of blockchain technology.
+
+My mission is to meticulously document every step of my learning process—every course, every line of code, every challenge, and every discovery. I am building in public to maintain accountability, share knowledge, and connect with the Web3 community.
 
 ---
 
-## 🔥 Featured Projects
-| 🏆 Project | 🚀 Description | 🔗 Link |
-|------------|-----------------|---------|
-| **Stetsenko Audit ** | Launched an AI-powered smart contract audit startup. | [View](https://stetsenko-audit-frontend.vercel.app) |
-| **Ethernaut Solutions** | Solutions for OpenZeppelin's security challenges | [View](https://github.com/VolodymyrStetsenko/ethernaut) |
-| **Smart Contract Audits** | Security reports & vulnerability analysis | [View](https://github.com/VolodymyrStetsenko/audits) |
-| **DeFi Exploit Research** | Analysis of past exploits & attack vectors | [View](https://github.com/VolodymyrStetsenko/web3-exploits) |
-| **ERC-20 Token Development** | Custom ERC-20 Token with security features | [View](https://github.com/VolodymyrStetsenko/erc20-token) |
-| **NFT Marketplace Development** | Building an NFT marketplace from scratch | [View](https://github.com/VolodymyrStetsenko/nft-marketplace) |
+## 🧠 Current Focus: Mastering the Fundamentals
+
+I am currently enrolled in the **[Cyfrin Updraft](https://updraft.cyfrin.io/dashboard )** program, a comprehensive curriculum designed to train the next generation of security auditors.
+
+-   **Course:** Blockchain Basics
+-   **Status:** In Progress (38%)
+-   **Learning Objectives:**
+    -   Understanding the core principles of decentralization.
+    -   Grasping the mechanics of Bitcoin, Ethereum, and other foundational protocols.
+    -   Learning about nodes, wallets, transactions, and consensus mechanisms.
 
 ---
 
-## 🎓 Education & Learning Path
-📌 **Blockchain & Web3 Security Training**  
-- 🔹 Blockchain Fundamentals – Coursera  
-- 🔹 Ethereum & Solidity Basics – Udemy  
-- 🔹 Smart Contract Security – OpenZeppelin Academy  
-- 🔹 Blockchain Penetration Testing – eLearnSecurity  
-- 🔹 Certified Blockchain Security Professional (CBSP)  
+## 🗺️ The Roadmap: A Structured Path to Expertise
 
-📌 **Practical Hands-on Experience**  
-- ✅ **Completed Ethernaut & Capture The Ether Challenges**  
-- ✅ **Security Audits & Reports on Real Smart Contracts**  
-- ✅ **Bug Bounty Participation: Code4rena, Immunefi, Sherlock**  
-- ✅ **Writing & Deploying Secure Smart Contracts**  
+This roadmap is not a static list; it is a living document that will evolve as I progress. Each stage represents a critical milestone in my journey.
+
+| Phase | Focus Area                      | Key Objectives                                                                | Status      |
+| :---: | ------------------------------- | ----------------------------------------------------------------------------- | ----------- |
+|   1   | **Blockchain & EVM Foundations**  | Complete Cyfrin's introductory courses on blockchain and the Ethereum Virtual Machine. | In Progress |
+|   2   | **Solidity & Smart Contracts**    | Master the Solidity programming language and best practices for secure development. | Upcoming    |
+|   3   | **Security & Auditing Tooling**   | Gain proficiency with industry-standard tools like Slither, Foundry, and Echidna. | Upcoming    |
+|   4   | **Real-World Application**        | Participate in CTFs, audit open-source projects, and contribute to security research. | Upcoming    |
+|   5   | **Specialization & Contribution** | Deepen my expertise in a specific area of Web3 security and share my findings.    | Future Goal |
 
 ---
 
-## 📜 Certifications
-✅ **Certified Smart Contract Auditor (CSCA) – CertiK**  
-✅ **Blockchain Security and Smart Contract Auditing – SANS Institute**  
-✅ **DeFi Exploits & Web3 Security – Immunefi Academy**  
-✅ **Ethereum Security Research – ConsenSys**  
+## 📂 Portfolio of Progress
+
+This section will house links to repositories containing my coursework, projects, and security audits. It will be updated continuously as I produce new work.
+
+*   **Blockchain Basics Course Notes & Exercises:** *(Repository link will be added upon completion)*
+*   **Smart Contract Development Projects:** *(Coming Soon)*
+*   **Security Audit Reports (Practice):** *(Coming Soon)*
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VolodymyrStetsenko&show_icons=true&theme=dark&count_private=true" width="50%">
-</p>
+## 🔗 Connect and Follow My Journey
+
+I believe in the power of community and shared knowledge. Follow my progress, offer feedback, or connect with me on my social platforms.
+
+-   **🐦 Twitter:** [@carstetsen](https://x.com/carstetsen )
+-   **💼 LinkedIn:** [Volodymyr Stetsenko](https://www.linkedin.com/in/volodymyr-stetsenko-656014246/ )
+-   **📹 YouTube:** [VolodymyrStetsenkoOfficial](https://www.youtube.com/@VolodymyrStetsenkoOfficial )
+-   **💬 Telegram:** [Zero2Auditor](https://t.me/Zero2Auditor )
+-   **👽 Reddit:** [u/VStetsenko](https://www.reddit.com/user/VStetsenko/ )
 
 ---
 
-## 🎯 My Roadmap to Web3 Security Mastery
-📌 **Stage 1: Mastering Blockchain & Smart Contracts**  
-✅ Learn **Ethereum, EVM, Solidity, dApps**  
-✅ Build & deploy **ERC-20, ERC-721, and ERC-1155 tokens**  
-✅ Read & analyze **Uniswap, Aave, Compound smart contracts**  
+## 💡 Why Build in Public?
 
-📌 **Stage 2: Web3 Security & Smart Contract Auditing**  
-✅ Study **common vulnerabilities (Reentrancy, Integer Overflow, Oracle Manipulation)**  
-✅ Master **Slither, Mythril, Echidna for smart contract analysis**  
-✅ Perform **real-world security audits on GitHub projects**  
+The Web3 ecosystem's security is paramount. By transparently sharing my learning journey, I aim to:
+1.  **Inspire Others:** To show that anyone with dedication can enter the security field.
+2.  **Build Trust:** To establish credibility through demonstrated effort and tangible results.
+3.  **Foster Collaboration:** To learn from the community and contribute back to it.
 
-📌 **Stage 3: Advanced Security & Bug Bounty Hunting**  
-✅ Exploit analysis: **Cross-Chain Attacks, Flash Loans, Bridge Hacks**  
-✅ Work on **bug bounty programs (Immunefi, Code4rena, Sherlock)**  
-✅ Reverse engineer **complex Web3 exploits**  
-
-📌 **Stage 4: Becoming a Recognized Web3 Security Expert**  
-✅ Publish **audits & security research on Medium & GitHub**  
-✅ Collaborate with **CertiK, OpenZeppelin, Quantstamp**  
-✅ Speak at **Web3 security conferences & workshops**  
-
----
-
-## 🔗 Connect With Me
-- 🐦 Twitter: [@volodymyrstetsenko](https://x.com/carstetsen)
-- 💼 LinkedIn: [Volodymyr Stetsenko](https://www.linkedin.com/in/volodymyr-stetsenko-656014246/)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-## 🏆 GitHub Badges
-![Smart Contract Security](https://img.shields.io/badge/Security-Blockchain-blue)  
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-Expert-green)  
-![Ethereum](https://img.shields.io/badge/Ethereum-Solidity-yellow)  
-![DeFi Security](https://img.shields.io/badge/DeFi-Security-red)  
-![Bug Bounty Hunter](https://img.shields.io/badge/Bug%20Bounty-Web3%20Security-purple)  
-
----
-
-🚀 **If you're looking for a blockchain security expert, let's connect and work together!**
+> This profile is a testament to the process. It is not a final destination, but a chronicle of growth. Welcome to the **#Zero2Audit** mission.
