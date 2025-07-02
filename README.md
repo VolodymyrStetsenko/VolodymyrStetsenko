@@ -1,73 +1,81 @@
-<h1 align="center">Volodymyr Stetsenko: The Zero-to-Audit Journey</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko Banner" width="100%">
-</p>
-
----
-
-## 🚀 My Mission: From Zero to Web3 Security Professional
-
-Welcome to my digital workshop. My name is Volodymyr Stetsenko, and I am on a public journey to become a world-class smart contract auditor. This repository is a transparent, real-time log of my progress, starting from the absolute basics of blockchain technology.
-
-My mission is to meticulously document every step of my learning process—every course, every line of code, every challenge, and every discovery. I am building in public to maintain accountability, share knowledge, and connect with the Web3 community.
-
----
-
-## 🧠 Current Focus: Mastering the Fundamentals
-
-I am currently enrolled in the **[Cyfrin Updraft](https://updraft.cyfrin.io/dashboard )** program, a comprehensive curriculum designed to train the next generation of security auditors.
-
--   **Course:** Blockchain Basics
--   **Status:** In Progress (38%)
--   **Learning Objectives:**
-    -   Understanding the core principles of decentralization.
-    -   Grasping the mechanics of Bitcoin, Ethereum, and other foundational protocols.
-    -   Learning about nodes, wallets, transactions, and consensus mechanisms.
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko Banner"/>
+  <h1 align="center">VOLODYMYR STETSENKO</h1>
+  <h3 align="center">THE CHRONICLES OF A WEB3 SECURITY APPRENTICE</h3>
+  <p align="center"><strong>Building in Public. Learning with Purpose. Securing the Future.</strong></p>
+  
+  <div align="center">
+    <a href="https://x.com/carstetsen" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://www.linkedin.com/in/volodymyr-stetsenko-656014246/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://t.me/Zero2Auditor" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="https://www.youtube.com/@VolodymyrStetsenkoOfficial" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+    <a href="https://www.reddit.com/user/VStetsenko/" target="_blank">
+      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+    </a>
+  </div>
+</div>
 
 ---
 
-## 🗺️ The Roadmap: A Structured Path to Expertise
+<div align="center">
 
-This roadmap is not a static list; it is a living document that will evolve as I progress. Each stage represents a critical milestone in my journey.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VolodymyrStetsenko&show_icons=true&theme=radical&rank_icon=github&count_private=true )
 
-| Phase | Focus Area                      | Key Objectives                                                                | Status      |
-| :---: | ------------------------------- | ----------------------------------------------------------------------------- | ----------- |
-|   1   | **Blockchain & EVM Foundations**  | Complete Cyfrin's introductory courses on blockchain and the Ethereum Virtual Machine. | In Progress |
-|   2   | **Solidity & Smart Contracts**    | Master the Solidity programming language and best practices for secure development. | Upcoming    |
-|   3   | **Security & Auditing Tooling**   | Gain proficiency with industry-standard tools like Slither, Foundry, and Echidna. | Upcoming    |
-|   4   | **Real-World Application**        | Participate in CTFs, audit open-source projects, and contribute to security research. | Upcoming    |
-|   5   | **Specialization & Contribution** | Deepen my expertise in a specific area of Web3 security and share my findings.    | Future Goal |
+</div>
 
 ---
 
-## 📂 Portfolio of Progress
+### `> whoami`
 
-This section will house links to repositories containing my coursework, projects, and security audits. It will be updated continuously as I produce new work.
-
-*   **Blockchain Basics Course Notes & Exercises:** *(Repository link will be added upon completion)*
-*   **Smart Contract Development Projects:** *(Coming Soon)*
-*   **Security Audit Reports (Practice):** *(Coming Soon)*
-
----
-
-## 🔗 Connect and Follow My Journey
-
-I believe in the power of community and shared knowledge. Follow my progress, offer feedback, or connect with me on my social platforms.
-
--   **🐦 Twitter:** [@carstetsen](https://x.com/carstetsen )
--   **💼 LinkedIn:** [Volodymyr Stetsenko](https://www.linkedin.com/in/volodymyr-stetsenko-656014246/ )
--   **📹 YouTube:** [VolodymyrStetsenkoOfficial](https://www.youtube.com/@VolodymyrStetsenkoOfficial )
--   **💬 Telegram:** [Zero2Auditor](https://t.me/Zero2Auditor )
--   **👽 Reddit:** [u/VStetsenko](https://www.reddit.com/user/VStetsenko/ )
-
----
-
-## 💡 Why Build in Public?
-
-The Web3 ecosystem's security is paramount. By transparently sharing my learning journey, I aim to:
-1.  **Inspire Others:** To show that anyone with dedication can enter the security field.
-2.  **Build Trust:** To establish credibility through demonstrated effort and tangible results.
-3.  **Foster Collaboration:** To learn from the community and contribute back to it.
-
-> This profile is a testament to the process. It is not a final destination, but a chronicle of growth. Welcome to the **#Zero2Audit** mission.
+```yaml
+name: Volodymyr Stetsenko
+role: Aspiring Smart Contract Auditor
+mission: To achieve mastery in Web3 security through rigorous, transparent, and documented learning.
+philosophy: "The journey is the portfolio. Every line of code, every concept learned, and every challenge overcome is a testament to growth."
+status:
+  learning: true
+  building: true
+  securing: in-progress
+🗺️ THE STRATEGIC ROADMAP: FROM ZERO TO AUDITOR
+This is my structured curriculum via Cyfrin Updraft. Progress is updated manually as I advance through the modules.
+► Phase 1: Foundational Knowledge
+[█░░░░░░░░░] 10% Blockchain Basics
+[░░░░░░░░░░] 0% Solidity, EVM, and Smart Contracts
+► Phase 2: Offensive Security & Tooling
+[░░░░░░░░░░] 0% Foundry & Advanced Smart Contract Development
+[░░░░░░░░░░] 0% Security & Auditing Tools (Slither, Echidna)
+► Phase 3: Real-World Application & Auditing
+[░░░░░░░░░░] 0% Full Smart Contract Auditing Process
+[░░░░░░░░░░] 0% Live CTF Challenges & War Games
+🛠️ THE ARSENAL: SKILLS & TECHNOLOGIES
+This is the stack I am actively learning and mastering. The list will expand as I progress through the roadmap.
+<p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/> </a> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📂 PROJECT LOG: A CHRONICLE OF WORK
+This section serves as the evidence of my journey. Each entry is a link to a repository containing code, notes, or audit reports.
+Category
+Project Name
+Status
+Repository Link
+📚 Coursework & Notes
+Blockchain Basics - Cyfrin Updraft
+⏳ In Progress
+[Link will be added]
+💻 Code & Exercises
+Foundry Setup & First Contracts
+📝 Planned
+[Link will be added]
+🛡️ Security Audits
+Practice Audit: Simple ERC20 Token
+📝 Planned
+[Link will be added]
+🏆 GITHUB TROPHIES & ACHIEVEMENTS
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=VolodymyrStetsenko&theme=radical&column=7" alt="GitHub Trophies"/> </a> </p>
+<div align="center"> <h3>This profile is a living document—a real-time reflection of my commitment to mastering Web3 security.</h3> <p>Thank you for visiting. Let's connect and build a more secure decentralized future together.</p> <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/footer.svg" alt="Footer"/> </div> ```
