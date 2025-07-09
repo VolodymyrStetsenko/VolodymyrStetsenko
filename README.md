@@ -1,6 +1,3 @@
-**README.md (Volodymyr Stetsenko | GitHub Portfolio)**
-
-```markdown
 <div align="center">
 
   <!-- Main Visual Identity -->
