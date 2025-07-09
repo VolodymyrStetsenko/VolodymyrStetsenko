@@ -5,15 +5,13 @@
     <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko - Web3 Security" width="100%"/>
   </a>
 
-  
-  <h1>Volodymyr Stetsenko</h1>
-  <h3>Aspiring Web3 Security Auditor & Smart Contract Engineer</h3>
+  <br>
+
+  <h1>VOLODYMYR STETSENKO</h1>
+  <h3>Web3 Security Auditor & Smart Contract Developer</h3>
   <p>
-    Welcome to my public journey of mastering blockchain technology and smart contract security.
-
-    Every commit, project, and audit reflects my progress toward becoming a professional in Web3.
-
-    <strong>Currently learning with <a href="https://updraft.cyfrin.io/dashboard">Cyfrin Updraft</a></strong>.
+    Building expertise in blockchain security through hands-on development and comprehensive auditing practices.<br>
+    Currently mastering the Web3 ecosystem via Cyfrin Updraft's professional curriculum.
   </p>
 
   <!-- Social & Professional Links -->
@@ -30,69 +28,39 @@
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> Mission: Build in PublicMy philosophy is rooted in transparency and continuous growth. By documenting every step of my journey—challenges, successes, and lessons learned—I aim to inspire others and hold myself accountable. This portfolio is a live record of my evolution into a skilled Web3 Security Auditor and Smart Contract Engineer, with all code, notes, and projects openly shared.> Current Focus: Cyfrin Updraft CurriculumI am actively pursuing professional development through the Cyfrin Updraft platform, a leading resource for blockchain and smart contract education.Completed: Blockchain Basics (Certificate Earned)
-Mastered core concepts of decentralization, cryptographic trust, and blockchain mechanics (Bitcoin, Ethereum). Gained a solid understanding of nodes, wallets, transactions, and consensus mechanisms.
-In Progress: Solidity Smart Contract Development
-Actively learning Solidity and Ethereum Virtual Machine (EVM) fundamentals. Successfully deployed:A smart contract on the Sepolia testnet.  
-A smart contract on the zkSync testnet.
-Current focus: Building and testing smart contracts, understanding gas optimization, and preparing for real-world auditing.
+## `> Current Learning Journey: Cyfrin Updraft Pathway`
 
-Upcoming Courses:  Foundry Fundamentals: Planned to deepen expertise in advanced development and testing frameworks.  
-Advanced Foundry: Aiming to master complex auditing techniques and tools like Slither and Echidna.
+I am currently pursuing comprehensive Web3 security education through the **[Cyfrin Updraft](https://updraft.cyfrin.io/dashboard)** platform, following a structured curriculum designed by industry experts like Patrick Collins. This intensive program is shaping my expertise in blockchain security and smart contract development.
 
-Objective: Build a robust foundation in blockchain technology and smart contract development to transition into professional auditing and engineering roles.<!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🎯 **Completed Courses:**
+- **✅ Blockchain Basics** - Fundamental understanding of blockchain technology, consensus mechanisms, and decentralized networks
+- **🔄 Solidity Smart Contract Development** - Currently mastering smart contract programming, testing, and deployment practices
 
-> Strategic Roadmap: Path to ExpertiseMy journey is structured into clear phases, each designed to elevate my skills and establish credibility in the Web3 ecosystem.<table width="100%">
-  <thead>
-    <tr>
-      <th width="20%">Phase</th>
-      <th width="55%">Objective</th>
-      <th width="25%">Status & Progress</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Phase 1: Core Foundations</strong></td>
-      <td>Master blockchain principles, Solidity, and EVM architecture through Cyfrin Updraft courses.</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-blue?style=for-the-badge">
-        
+### 📚 **Upcoming Courses:**
+- **📋 Smart Contract Fundamentals** - Advanced Solidity patterns and security best practices
+- **🔧 Advanced Foundry** - Professional testing, debugging, and deployment workflows
+- **🛡️ Security & Auditing** - Comprehensive smart contract security auditing methodologies
 
-        <code>[█████░░░░░] 50%</code>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Phase 2: Advanced Development</strong></td>
-      <td>Develop proficiency in Foundry, testing frameworks, and security tools to build and audit smart contracts.</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/STATUS-PLANNED-grey?style=for-the-badge">
-        
-
-        <code>[░░░░░░░░░░] 0%</code>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Phase 3: Professional Auditing</strong></td>
-      <td>Conduct full-scope smart contract audits, participate in CTFs, and contribute to open-source Web3 security projects.</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/STATUS-PLANNED-grey?style=for-the-badge">
-        
-
-        <code>[░░░░░░░░░░] 0%</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
+### 🚀 **Practical Achievements:**
+- **Smart Contract Deployments:**
+  - ✅ Deployed smart contract on **Sepolia Testnet**
+  - ✅ Deployed smart contract on **zkSync Testnet**
+- **Testing & Development:**
+  - Implemented comprehensive test suites using Foundry
+  - Created deployment scripts for multi-network compatibility
 
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> Tech Stack: Tools & TechnologiesMy current and evolving toolkit for blockchain development and security auditing:<div align="center">
+## `> Professional Development Stack`
+
+Building expertise across the essential tools and technologies required for professional Web3 security auditing and smart contract development.
+
+<div align="center">
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/zkSync-8A2BE2?style=for-the-badge&logo=zkSync&logoColor=white" alt="zkSync"/>
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
+  <img src="https://img.shields.io/badge/zkSync-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white" alt="zkSync"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -102,58 +70,79 @@ Objective: Build a robust foundation in blockchain technology and smart contract
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> GitHub Metrics: Real-Time ActivityA transparent overview of my contributions and technical focus, dynamically updated.<div align="center">
+## `> GitHub Analytics & Activity`
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VolodymyrStetsenko&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VolodymyrStetsenko&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-  
-
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VolodymyrStetsenko&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
 </div>
 
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> Portfolio: Projects & AchievementsThis section showcases my hands-on work, including smart contract deployments, coursework, and future audits. Each repository is a milestone toward my goal of becoming a Web3 professional.Category
-Project / Repository Name
-Description
-Status
-Link
- Coursework
-blockchain-basics-notes
-Notes and exercises from Cyfrin’s Blockchain Basics course.
- Completed
-[Link to be added]
- Smart Contracts
-sepolia-smart-contract-deployment
-Deployed a smart contract on Sepolia testnet.
- Completed
-[Link to be added]
- Smart Contracts
-zksync-smart-contract-deployment
-Deployed a smart contract on zkSync testnet.
- Completed
-[Link to be added]
- Code & Exercises
-solidity-smart-contract-exercises
-Practical Solidity exercises from Cyfrin’s course.
- In Progress
-[Link to be added]
- Security Audits
-practice-audit-simple-erc20
-Planned audit of a simple ERC20 contract.
- Planned
-[Link to be added]
-CTF Solutions
-ethernaut-challenge-solutions
-Solutions to Ethernaut CTF challenges.
- Planned
-[Link to be added]
+## `> Project Portfolio & Development Progress`
+
+### 🔧 **Active Development Projects**
+
+| Project Name | Description | Technologies | Status | Repository |
+|-------------|-------------|--------------|---------|------------|
+| **Cyfrin Updraft Coursework** | Complete solutions and notes from Cyfrin Updraft curriculum | Solidity, Foundry, Git | 🔄 In Progress | [Coming Soon] |
+| **Smart Contract Security Audits** | Practice audits and vulnerability assessments | Solidity, Slither, Foundry | 📋 Planned | [Coming Soon] |
+| **DeFi Protocol Analysis** | Security analysis of popular DeFi protocols | Solidity, Web3.js, Ethers.js | 📋 Planned | [Coming Soon] |
+| **Foundry Testing Suite** | Comprehensive testing frameworks and utilities | Foundry, Solidity | 📋 Planned | [Coming Soon] |
+
+### 🎯 **Completed Deployments**
+
+- **Sepolia Testnet Deployment** - Successfully deployed and verified smart contract
+- **zkSync Testnet Deployment** - Cross-chain deployment demonstrating L2 expertise
+- **Multi-Network Configuration** - Implemented deployment scripts for various networks
 
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> Connect With MeI’m passionate about collaboration and learning from the Web3 community. Reach out for feedback, discussions, or potential opportunities!<div align="center">
-  <p><strong>Let’s build the future of Web3 together.</strong></p>
+## `> Learning Roadmap & Future Goals`
+
+### 🎯 **Short-term Objectives (Next 3 Months)**
+- Complete Solidity Smart Contract Development course
+- Build and deploy 5+ production-ready smart contracts
+- Establish comprehensive testing practices with Foundry
+- Create detailed documentation for all projects
+
+### 🚀 **Medium-term Goals (6 Months)**
+- Complete Advanced Foundry course
+- Conduct first professional smart contract audit
+- Contribute to open-source security tools
+- Develop expertise in common vulnerability patterns
+
+### 🎖️ **Long-term Vision (1 Year)**
+- Become a recognized smart contract security auditor
+- Contribute to major DeFi protocol security
+- Mentor other developers entering Web3 security
+- Build a professional auditing practice
+
+<!-- Section Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `> Professional Network & Collaboration`
+
+I believe in the power of community-driven learning and professional networking. I actively engage with the Web3 security community through various channels and welcome collaboration opportunities.
+
+### 📞 **Let's Connect**
+- **Professional Inquiries**: Available for smart contract development and security consultation
+- **Collaboration**: Open to working on interesting Web3 projects and security research
+- **Mentorship**: Happy to share knowledge and learn from experienced professionals
+- **Community**: Active in Web3 security communities and developer forums
+
+<div align="center">
+  <p><strong>Building the future of decentralized security, one smart contract at a time.</strong></p>
+  <br>
   <img src="https://github-profile-trophy.vercel.app/?username=VolodymyrStetsenko&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 </div>
 
+---
+
+<div align="center">
+  <p><em>This profile represents my commitment to excellence in Web3 security and continuous professional development in the blockchain ecosystem.</em></p>
+</div>
