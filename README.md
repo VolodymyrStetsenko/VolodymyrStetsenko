@@ -1,47 +1,51 @@
 <div align="center">
-  <a href="https://github.com/VolodymyrStetsenko">
-    <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko - Web3 Security" width="100%"/>
-  </a>
-  <br>
+
+  <!-- Banner with dark/light support -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./baner_dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./baner_light.png" />
+    <img src="./baner_light.png" alt="Volodymyr Stetsenko — Web3 Security" width="100%" />
+  </picture>
+
+  <!-- Name & Value Proposition -->
   <h1>VOLODYMYR STETSENKO</h1>
-  <h3>Web3 Security Auditor in Training | Building Securely in Public</h3>
-  <p>
-    Dedicated to mastering Web3 security through hands-on projects and transparent progress. Focused on Solidity audits, Ethereum ecosystems, and robust tooling for vulnerability detection.
-  </p>
-  <div>
-    <a href="https://x.com/carstetsen" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/volodymyr-stetsenko-656014246/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://t.me/Zero2Auditor" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://www.youtube.com/@VolodymyrStetsenkoOfficial" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href="https://www.reddit.com/user/VStetsenko/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-  </div>
-</div>
+  <p><b>Web3 Security · Solidity · Foundry · Proof-of-Work</b></p>
 
----
+  <!-- Status (no Top Languages) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VolodymyrStetsenko&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+    alt="GitHub Stats"
+    width="100%"
+  />
 
-## `> Current Stack: Essential Tools for Web3 Security`
+  <!-- Current Stack (enterprise flat-square) -->
+  <br /><br />
+  <img src="https://img.shields.io/badge/CURRENT%20STACK-0f172a?style=flat-square" alt="Current Stack" />
+  <br />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=flat-square" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat-square" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Foundry-000000?logo=render&logoColor=white&style=flat-square" alt="Foundry" />
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat-square" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=flat-square" alt="JavaScript" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</div>
+  <!-- Socials: labels only -->
+  <br /><br />
+  <a href="https://www.youtube.com/@VolodymyrStetsenkoOfficial">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square" alt="YouTube" />
+  </a>
+  <a href="https://x.com/carstetsen">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/volodymyr-stetsenko-656014246/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/Zero2Auditor">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white&style=flat-square" alt="Telegram" />
+  </a>
+  <a href="https://www.reddit.com/user/VStetsenko/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat-square" alt="Reddit" />
+  </a>
 
----
-
-## `> GitHub Metrics: Activity Snapshot`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VolodymyrStetsenko&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VolodymyrStetsenko&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VolodymyrStetsenko&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 </div>
