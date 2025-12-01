@@ -5,7 +5,7 @@
   </a>
 
   <h1>VOLODYMYR STETSENKO</h1>
-  <h3>Web3 Security • Solidity • Foundry</h3>
+  <h3>Web3 Security</h3>
 
   <!-- Social -->
   <p>
