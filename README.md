@@ -42,10 +42,6 @@
 
   <hr>
 
-  <!-- GitHub Status -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=VolodymyrStetsenko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub Stats" width="49%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VolodymyrStetsenko&hide_border=true&theme=tokyonight" alt="GitHub Streak" width="49%">
-  </p>
+
 
 </div>
