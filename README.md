@@ -4,16 +4,16 @@
     <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/VolodymyrStetsenko/main/baner.png" alt="Volodymyr Stetsenko — Web3 Security" width="100%">
   </a>
 
+  <div align="center">
   <h1>VOLODYMYR STETSENKO</h1>
   <h3>Web3 Security</h3>
 
-  <!-- Social -->
   <p>
-    <a href="https://www.youtube.com/@Zero2Audit" target="_blank"
+    <a href="https://www.youtube.com/@Zero2Audit" target="_blank">
       <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
     <a href="https://x.com/carstetsen" target="_blank">
-      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+      <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/volodymyr-stetsenko-656014246/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -27,6 +27,4 @@
   </p>
 
   <hr>
-
- 
 </div>
