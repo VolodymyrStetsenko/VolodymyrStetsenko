@@ -1,0 +1,34 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0B1728"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="70" x2="310" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.2"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94A3B8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="20" fill="url(#grid)"/>
+
+  <g transform="translate(92 54)">
+    <path d="M76 0L142 38V114L76 152L10 114V38L76 0Z" stroke="url(#accent)" stroke-width="3"/>
+    <circle cx="76" cy="36" r="7" fill="#67E8F9"/>
+    <circle cx="38" cy="98" r="7" fill="#22D3EE"/>
+    <circle cx="114" cy="98" r="7" fill="#22D3EE"/>
+    <path d="M76 43V74M70 78L43 94M82 78L109 94" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="76" cy="78" r="9" fill="#07111F" stroke="#67E8F9" stroke-width="3"/>
+  </g>
+
+  <text x="290" y="108" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="1.5">VOLODYMYR STETSENKO</text>
+  <text x="293" y="153" fill="#67E8F9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="4">SECURITY RESEARCH</text>
+  <text x="293" y="190" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" letter-spacing="1.2">SMART CONTRACTS  ·  PROTOCOL RISK  ·  ON-CHAIN ANALYSIS</text>
+
+  <line x1="293" y1="214" x2="1040" y2="214" stroke="#67E8F9" stroke-opacity="0.28"/>
+  <circle cx="1058" cy="214" r="4" fill="#67E8F9"/>
+</svg>
