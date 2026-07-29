@@ -30,9 +30,9 @@
 
 ## Research focus
 
-I investigate how digital-asset systems fail — from initial access and control breakdowns to on-chain impact — and turn technical evidence into clear, public analysis.
+I investigate how digital-asset systems fail — from initial access and control breakdowns to on-chain impact — using on-chain forensics, exploit reproduction, and evidence-driven analysis.
 
-`Incident Analysis` · `Threat Intelligence` · `Security Architecture` · `Security Engineering` · `Digital Assets`
+`On-chain Forensics` · `Exploit Reproduction` · `Incident Analysis` · `Threat Intelligence` · `Security Engineering`
 
 ---
 
