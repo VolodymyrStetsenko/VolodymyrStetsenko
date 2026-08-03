@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/SECURITY-REVIEW/main/.github/media/logo.png" width="136" alt="Volodymyr Stetsenko">
 
   <h1>Volodymyr Stetsenko</h1>
-  <p><strong>Security Researcher &amp; Autonomous Systems Engineer</strong></p>
-  <p>Adversarial Research · Incident Analysis · System Integrity</p>
+  <p><strong>Security Researcher &amp; Incident Analyst</strong></p>
+  <p>Security Reviews · Incident Reconstruction · Technical Research</p>
 
   <a href="https://github.com/VolodymyrStetsenko"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/volodymyr-stetsenko-656014246/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -13,21 +13,30 @@
 
 ---
 
-I investigate how high-impact systems fail and build mechanisms that keep autonomous actions observable, bounded, and verifiable.
+I investigate how high-impact systems fail, reconstruct incidents from verifiable evidence, and publish reproducible security research with explicit limitations.
 
-## Selected systems & research
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Security Reviews</h3>
+<p align="center">Independent assessments, adversarial testing, exploit reproduction, and published technical reports.</p>
+<p align="center"><a href="https://github.com/VolodymyrStetsenko/SECURITY-REVIEW"><strong>View security reviews →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Incident Research</h3>
+<p align="center">Evidence-led reconstruction of execution, asset movement, system relationships, root cause, and unresolved gaps.</p>
+<p align="center"><a href="https://github.com/VolodymyrStetsenko/White-Radar/tree/main/cases"><strong>View incident research →</strong></a></p>
+</td>
+</tr>
+</table>
 
-| Project | Work |
-| --- | --- |
-| [**VLDMR Skills**](https://github.com/VolodymyrStetsenko/vldmr-skills) | Evidence-gated autonomous security workflows with deterministic validation and explicit completeness boundaries |
-| [**White Radar**](https://github.com/VolodymyrStetsenko/White-Radar) | Read-only incident reconstruction across execution, asset flow, system relationships, and evidence provenance |
-| [**ZKBind**](https://github.com/VolodymyrStetsenko/ZkBind) | Cross-layer security analysis for zero-knowledge proof integrations |
-| [**SecureLedger**](https://github.com/VolodymyrStetsenko/SecureLedger) | Accountable transaction processing with explicit invariants, authorisation boundaries, and audit evidence |
-| [**Security Reviews**](https://github.com/VolodymyrStetsenko/SECURITY-REVIEW) | Published assessments, exploit reproduction, and technical reports |
+## Research scope
 
-## Current direction
+`Web3 / DeFi` · `AI Security` · `Exploit Analysis` · `Incident Reconstruction` · `Adversarial Evaluation` · `Evidence Provenance`
 
-Security and evaluation infrastructure for autonomous systems: capability boundaries, tool-use controls, reproducible adversarial evaluations, provenance, and human oversight.
+## Engineering
+
+[**White Radar**](https://github.com/VolodymyrStetsenko/White-Radar) · [**VLDMR Skills**](https://github.com/VolodymyrStetsenko/vldmr-skills) · [**ZKBind**](https://github.com/VolodymyrStetsenko/ZkBind) · [**SecureLedger**](https://github.com/VolodymyrStetsenko/SecureLedger)
 
 ---
 
