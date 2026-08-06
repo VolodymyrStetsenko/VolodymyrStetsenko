@@ -32,11 +32,11 @@ I investigate how high-impact systems fail, reconstruct incidents from verifiabl
 
 ## Research scope
 
-`Web3 / DeFi` · `AI Security` · `Exploit Analysis` · `Incident Reconstruction` · `Adversarial Evaluation` · `Evidence Provenance`
+`Web3 / DeFi` · `AI Agent Security` · `Exploit Analysis` · `Incident Reconstruction` · `Adversarial Evaluation` · `Evidence Provenance`
 
 ## Engineering
 
-[**White Radar**](https://github.com/VolodymyrStetsenko/White-Radar) · [**VLDMR Skills**](https://github.com/VolodymyrStetsenko/vldmr-skills) · [**ZKBind**](https://github.com/VolodymyrStetsenko/ZkBind) · [**SecureLedger**](https://github.com/VolodymyrStetsenko/SecureLedger)
+[**White Radar**](https://github.com/VolodymyrStetsenko/White-Radar) · [**Skills**](https://github.com/VolodymyrStetsenko/skills) · [**ZKBind**](https://github.com/VolodymyrStetsenko/ZkBind) · [**SecureLedger**](https://github.com/VolodymyrStetsenko/SecureLedger)
 
 ---
 
