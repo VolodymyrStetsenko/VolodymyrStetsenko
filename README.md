@@ -32,6 +32,7 @@ Engagement scope, revision, exclusions, confidentiality, delivery dates, and com
 | --- | --- |
 | [**Security Reviews**](https://github.com/VolodymyrStetsenko/SECURITY-REVIEW) | Three published protocol reviews with explicit scope, findings, and limitations |
 | [**Security Review Skills**](https://github.com/VolodymyrStetsenko/skills) | Versioned, evidence-gated workflows for EVM, proof-verifier, and zero-knowledge review |
+| [**Agent Authority Lab**](https://github.com/VolodymyrStetsenko/agent-authority-lab) | Reproducible recipient-substitution and approval-binding case for transaction authority |
 | [**White Radar**](https://github.com/VolodymyrStetsenko/White-Radar) | Read-only EVM incident reconstruction with bounded evidence collection and provenance |
 | [**ZKBind**](https://github.com/VolodymyrStetsenko/ZkBind) | Cross-layer analysis of verifier-to-application trust boundaries |
 | [**Web3 Security Corpus Builder**](https://github.com/VolodymyrStetsenko/web3-audit-dataset) | Reproducible collection, deduplication, FTS5 indexing, and RAG export pipeline |

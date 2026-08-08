@@ -39,6 +39,8 @@ Typical work includes:
 
 This work is scoped to observable system behavior and explicit permissions. It is not a certification that a model or agent is universally safe.
 
+Public method evidence: [Agent Authority Lab](https://github.com/VolodymyrStetsenko/agent-authority-lab) models a synthetic recipient-substitution case and tests recipient policy, separate approval, and exact intent binding. It does not use a language model, wallet, or real transaction.
+
 ### Incident Reconstruction
 
 For confirmed on-chain events that require a bounded, evidence-led technical record.
