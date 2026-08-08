@@ -1,46 +1,55 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/SECURITY-REVIEW/main/.github/media/logo.png" width="136" alt="Volodymyr Stetsenko">
+  <img src="https://raw.githubusercontent.com/VolodymyrStetsenko/SECURITY-REVIEW/main/.github/media/logo.png" width="132" alt="Volodymyr Stetsenko">
 
   <h1>Volodymyr Stetsenko</h1>
-  <p><strong>Security Researcher &amp; Incident Analyst</strong></p>
-  <p>Security Reviews · Incident Reconstruction · Technical Research</p>
+  <p><strong>Security Reviews for High-Consequence Systems</strong></p>
+  <p>Protocols · Agentic Systems · Incident Reconstruction</p>
 
-  <a href="https://github.com/VolodymyrStetsenko"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/volodymyr-stetsenko-656014246/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/carstetsen"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.youtube.com/@Zero2Audit"><img src="https://img.shields.io/badge/YOUTUBE-000000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="WORK_WITH_ME.md"><img src="https://img.shields.io/badge/WORK_WITH_ME-111111?style=for-the-badge" alt="Work with me"></a>
+  <a href="https://volodymyrstetsenko.github.io/VolodymyrStetsenko/"><img src="https://img.shields.io/badge/PROFILE-111111?style=for-the-badge" alt="Professional profile"></a>
+  <a href="https://www.linkedin.com/in/volodymyrstetsenko/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 ---
 
-I investigate how high-impact systems fail, reconstruct incidents from verifiable evidence, and publish reproducible security research with explicit limitations.
+I run an independent, founder-led security research and engineering practice. I work with protocol teams and builders of tool-using AI systems where failures can cross code, permissions, verifiers, external data, and on-chain execution.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">Security Reviews</h3>
-<p align="center">Independent assessments, adversarial testing, exploit reproduction, and published technical reports.</p>
-<p align="center"><a href="https://github.com/VolodymyrStetsenko/SECURITY-REVIEW"><strong>View security reviews →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">Incident Research</h3>
-<p align="center">Evidence-led reconstruction of execution, asset movement, system relationships, root cause, and unresolved gaps.</p>
-<p align="center"><a href="https://github.com/VolodymyrStetsenko/White-Radar/tree/main/cases"><strong>View incident research →</strong></a></p>
-</td>
-</tr>
-</table>
+My work is evidence-led: define the scope, identify the trust and authority boundaries, test concrete failure paths, preserve reproducible evidence, and state what remains unresolved.
 
-## Research scope
+## Engagements
 
-`Web3 / DeFi` · `AI Agent Security` · `Exploit Analysis` · `Incident Reconstruction` · `Adversarial Evaluation` · `Evidence Provenance`
+| Area | Focus | Typical output |
+| --- | --- | --- |
+| **Protocol Security Reviews** | Smart contracts, protocol invariants, authorization, accounting, callbacks, upgrades, and verifier/application boundaries | Threat model, review ledger, reproducible findings, technical report, remediation review |
+| **Agentic Systems Security Reviews** | Tool permissions, untrusted context, indirect prompt injection, data exposure, goal hijacking, authority escalation, and transaction policy | Authority map, adversarial cases, evidence report, prioritized hardening and regression plan |
+| **Incident Reconstruction** | On-chain execution, asset movement, contract relationships, root-cause analysis, provenance, and evidence gaps | Bounded chronology, evidence bundle, technical report, limitations and unresolved questions |
 
-## Engineering
+Engagement scope, revision, exclusions, confidentiality, delivery dates, and commercial terms are agreed before work begins. [Review the engagement model →](WORK_WITH_ME.md)
 
-[**White Radar**](https://github.com/VolodymyrStetsenko/White-Radar) · [**Skills**](https://github.com/VolodymyrStetsenko/skills) · [**ZKBind**](https://github.com/VolodymyrStetsenko/ZkBind) · [**SecureLedger**](https://github.com/VolodymyrStetsenko/SecureLedger)
+## Selected Work
+
+| Work | Evidence |
+| --- | --- |
+| [**Security Reviews**](https://github.com/VolodymyrStetsenko/SECURITY-REVIEW) | Three published protocol reviews with explicit scope, findings, and limitations |
+| [**Security Review Skills**](https://github.com/VolodymyrStetsenko/skills) | Versioned, evidence-gated workflows for EVM, proof-verifier, and zero-knowledge review |
+| [**White Radar**](https://github.com/VolodymyrStetsenko/White-Radar) | Read-only EVM incident reconstruction with bounded evidence collection and provenance |
+| [**ZKBind**](https://github.com/VolodymyrStetsenko/ZkBind) | Cross-layer analysis of verifier-to-application trust boundaries |
+| [**Web3 Security Corpus Builder**](https://github.com/VolodymyrStetsenko/web3-audit-dataset) | Reproducible collection, deduplication, FTS5 indexing, and RAG export pipeline |
+
+## Operating Principles
+
+`Evidence over assertion` · `Reproducibility over narrative` · `Explicit limits over false certainty`
+
+All work is defensive and authorized. A security review reduces uncertainty within a defined scope; it does not guarantee the absence of vulnerabilities or future incidents.
 
 ---
 
 <div align="center">
-  <sub>Evidence over assertion · Reproducibility over narrative · Explicit limits over false certainty</sub><br>
-  <sub>Defensive and authorised security research.</sub>
+  <a href="WORK_WITH_ME.md"><strong>Discuss a scoped engagement</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/volodymyrstetsenko/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/carstetsen">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@Zero2Audit">YouTube</a>
 </div>
