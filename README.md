@@ -50,7 +50,7 @@ All work is defensive and authorized. A security review reduces uncertainty with
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/volodymyrstetsenko/">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://x.com/carstetsen">X</a>
+  <a href="https://x.com/volodymyr_sec">X</a>
   &nbsp;·&nbsp;
   <a href="https://www.youtube.com/@Zero2Audit">YouTube</a>
 </div>
